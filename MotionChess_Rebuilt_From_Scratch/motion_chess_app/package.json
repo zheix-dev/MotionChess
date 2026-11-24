@@ -1,8 +1,0 @@
-{
-  "name":"motion-chess-rebuilt",
-  "version":"2.0.0",
-  "private":true,
-  "description":"Motion Chess rebuilt with server-authoritative chess, AI referee and D20 motion resolution",
-  "scripts":{"start":"node server.js","dev":"node server.js","check":"node --check server.js && node --check public/app.js"},
-  "dependencies":{"chess.js":"^1.4.0","dotenv":"^16.4.7","express":"^4.21.2","socket.io":"^4.8.1"}
-}
