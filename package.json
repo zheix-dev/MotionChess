@@ -1,6 +1,0 @@
-{
-  "name":"motion-chess-online","version":"1.0.0","private":true,
-  "description":"Motion Chess with accounts, online rooms, matchmaking and AI motion referee",
-  "scripts":{"start":"node server.js"},
-  "dependencies":{"chess.js":"^1.4.0","dotenv":"^16.4.7","express":"^4.21.2","socket.io":"^4.8.1"}
-}
